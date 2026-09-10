@@ -6,3 +6,4 @@ Grocery Spoilage: Without access to dorm refrigeration, groceries like milk, bre
 Social Scheduling Friction: Coordinating meal times with peers is difficult due to conflicting class schedules and academic commitments.
 
 new
+good idea
